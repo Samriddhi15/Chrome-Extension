@@ -1,0 +1,27 @@
+body{
+   
+   background-color: rgb(255, 255, 105);
+   border-radius: 15px 50px;
+    background-image: linear-gradient(to bottom, rgb(255, 255, 97), rgb(255, 200, 100));
+}
+
+p{
+   padding: 10px;
+   font-size:16px;
+   min-width: 100px;
+   width:300px;
+   box-shadow: rgba(100,100,111,0.2 ) 0px 7px 29px 73px 59px;
+   border-radius: 2rem;
+   border: 2px solid white;
+   background-color: rgb(1, 1, 0);
+   color: white;
+   font-family: cursive;
+}
+
+#samJoke{
+   color: black;
+   background-color: rgb(248, 245, 195);
+   border-radius: 2rem;
+   border: 2px solid black;
+   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 10px;
+}
