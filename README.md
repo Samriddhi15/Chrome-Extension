@@ -1,6 +1,6 @@
 # Vibrant Tooltip-style Chrome Extension
 
-![Extension Preview](![image](https://github.com/Samriddhi15/Chrome-Extension/assets/106501626/f0555460-5dfe-4e71-919d-aa21d87333d9))
+![image](https://github.com/Samriddhi15/Chrome-Extension/assets/106501626/f0555460-5dfe-4e71-919d-aa21d87333d9)
 
 ## Overview
 This Chrome extension provides a vibrant tooltip-style interface with rounded corners, a yellow gradient background, and a subtle shadow. It is ideal for displaying jokes and messages to users.
